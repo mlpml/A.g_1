@@ -1,0 +1,45 @@
+>>1-Time:2024-02-05 01:28:49-302<<
+Fun_SetActive[1]
+>>2-Time:2024-02-05 01:28:49-302<<
+CDataCenter::EMSG_APP_STATE[1, 0]
+>>3-Time:2024-02-05 01:29:02-339<<
+EFUN_ATTR_UPDATE_FILE_PATH[/storage/emulated/0/com.xm.csee.huawei/UpgradeFiles/]
+>>4-Time:2024-02-05 01:29:02-340<<
+EFUN_ATTR_CONFIG_PATH[/storage/emulated/0/com.xm.csee.huawei/.ConfigPath/]
+>>5-Time:2024-02-05 01:29:02-340<<
+EFUN_ATTR_TEMP_FILES_PATH[/storage/emulated/0/com.xm.csee.huawei/.FilesTemp/]
+>>6-Time:2024-02-05 01:29:02-340<<
+-password---EFUN_ATTR_USER_PWD_DB
+>>7-Time:2024-02-05 01:29:05-164<<
+FunSDK_SysInit_Net--223.4.33.127;54.84.132.236;112.124.0.188--15010>>8-Time:2024-02-05 01:29:05-164<<
+2024-02-05 01:29:05-164--FUN_SysInit/525
+>>9-Time:2024-02-05 01:29:07-052<<
+FunSDK_SysInit_Net--223.4.33.127;54.84.132.236;112.124.0.188--15010>>10-Time:2024-02-05 01:29:07-052<<
+2024-02-05 01:29:07-052--FUN_SysInit/525
+>>11-Time:2024-02-05 01:29:32-966<<
+SysInit_Local--/storage/emulated/0/CSFile.db>>12-Time:2024-02-05 01:29:32-966<<
+2024-02-05 01:29:32-965--FUN_SysInit/531
+>>13-Time:2024-02-05 01:29:32-966<<
+CStructDB file name = /storage/emulated/0/CSFile.db
+>>14-Time:2024-02-05 01:29:33-002<<
+2024-02-05 01:29:33-002--FUN_SysGetDevList/583
+>>15-Time:2024-02-05 01:29:33-002<<
+ClientID:339062b0eacf46e2b92a3be062c1c7551707085773002a519787962816>>16-Time:2024-02-05 01:29:33-002<<
+[CLocServer::OnMsg--Enter][msgId=5000]
+>>17-Time:2024-02-05 01:29:33-003<<
+[CLocServer::OnMsg--Leavel[Time:1]]
+>>18-Time:2024-02-05 01:29:36-854<<
+Fun_SetActive[0]
+>>19-Time:2024-02-05 01:29:36-855<<
+CDataCenter::EMSG_APP_STATE[0, 1]
+>>20-Time:2024-02-05 01:29:37-258<<
+Fun_SetActive[1]
+>>21-Time:2024-02-05 01:29:37-259<<
+CDataCenter::EMSG_APP_STATE[1, 0]
+>>22-Time:2024-02-05 01:29:49-510<<
+Dir:/storage/emulated/0/com.xm.csee.huawei/UpgradeFiles/,nDaysAgo:0>>23-Time:2024-02-05 01:29:49-510<<
+Dir:/storage/emulated/0/com.xm.csee.huawei/.FilesTemp/,nDaysAgo:0>>24-Time:2024-02-05 01:29:49-512<<
+Dir:/storage/emulated/0/com.xm.csee.huawei/.ConfigPath/XConfigFiles/,nDaysAgo:0>>25-Time:2024-02-05 01:29:57-918<<
+Fun_SetActive[0]
+>>26-Time:2024-02-05 01:29:57-918<<
+CDataCenter::EMSG_APP_STATE[0, 1]
